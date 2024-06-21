@@ -1,5 +1,10 @@
 <div align="center">
   <h1 align="center">
+    <style>
+      h1{
+        color: yellow;
+      }
+      </style>
     Logica de Programacion 
     <br />
     <br />
