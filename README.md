@@ -10,5 +10,8 @@
 </div>
 <h4 align="center">:construction: Proyecto en construcción :construction:</h4>
 <p align="center">Ejercicio de lógica de programación con JavaScript</p>
-    :star: Autor :star:<br>
-     <img src="Images/Avatar GirHub.jpeg" width=115><br><sub>Rick Lozano</sub>](https://github.com/RickL1982)
+  <h2 align="center">:star: Autor :star:</h2>
+<div align="center">
+  <img src="Images/Avatar GitHub.jpeg" width="115" alt="Avatar de Rick Lozano"><br>
+  <a href="https://github.com/RickL1982"><sub>Rick Lozano</sub></a>
+</div>
