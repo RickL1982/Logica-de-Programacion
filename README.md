@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-          Logica de Programacion 
+          Desafios: Hora de Practicar "Logica de Programacion" 
     <br />
     <p align="centro">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
