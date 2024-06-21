@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">
-  # <span style="color: yellow;">Título principal</span><h1><span style="color: yellow;">Título principal</span></h1
-        Logica de Programacion 
+          Logica de Programacion 
     <br />
     <br />
     <a href="#">
@@ -10,3 +9,5 @@
   </h1>
 </div>
 Ejercicio de lógica de programación con JavaScript
+   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
