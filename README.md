@@ -2,7 +2,7 @@
   <h1 align="center">
           Logica de Programacion 
     <br />
-    <p align="left">
+    <p align="centro">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
     <br />
