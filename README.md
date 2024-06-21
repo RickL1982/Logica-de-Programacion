@@ -9,5 +9,7 @@
   </h1>
 </div>
 Ejercicio de lógica de programación con JavaScript
-   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
 
