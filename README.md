@@ -10,5 +10,9 @@
 </div>
 <h4 align="center">:construction: Proyecto en construcción :construction:</h4>
 <p align="center">Ejercicio de lógica de programación con JavaScript</p>
+## Autores
+
+| [<img src="Images/Avatar GirHub.jpeg" width=115><br><sub>Rick Lozano Alves</sub>]([https://github.com/camilafernanda](https://github.com/RickL1982)) |  |
+| :---: | :---: | :---: |
 
 
