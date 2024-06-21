@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Docusaurus
+    Logica de Programacion 
     <br />
     <br />
     <a href="#">
