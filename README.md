@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-   <h1><span style="color: yellow;">Título principal</span></h1
+  # <span style="color: yellow;">Título principal</span>
     Logica de Programacion 
     <br />
     <br />
