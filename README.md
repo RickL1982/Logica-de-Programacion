@@ -12,6 +12,6 @@
 <p align="center">Ejercicio de lógica de programación con JavaScript</p>
   <h2 align="center">:star: Autor :star:</h2>
 <div align="center">
-  <img src="Images/Avatar GitHub.jpeg" width="115" alt="Avatar de Rick Lozano"><br>
+  <img src="Images/Avatar GirHub.jpeg" width="115" alt="Avatar de Rick Lozano"><br>
   <a href="https://github.com/RickL1982"><sub>Rick Lozano</sub></a>
 </div>
